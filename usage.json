@@ -1,0 +1,21 @@
+{
+  "schemaVersion": 1,
+  "package": "@x12i/text-topics",
+  "packageVersion": "1.0.0",
+  "npmUrl": "https://www.npmjs.com/package/@x12i/text-topics",
+  "usageRepository": "https://github.com/x12i-sdk/text-topics",
+  "sourceRepository": "https://github.com/x12i/distinctive-terms",
+  "sourceCommit": "75caadc9b8e4851a7250a4d9ad3f480131805413",
+  "sourcePackageDirectory": "packages/text-topics",
+  "example": {
+    "title": "Tag a support message with a small evidence-backed taxonomy",
+    "entrypoint": "src/index.mjs",
+    "command": "npm start",
+    "requiresCredentials": false,
+    "validation": "passed",
+    "validatedAt": "2026-10-24T13:12:26.283193+00:00",
+    "isolatedInstallation": true,
+    "sourceSha256": "0cc6ae870546a96ef3db6703050356ee8693a3d995edee6eb5242977e8a16c96",
+    "manifestSha256": "3b7dc86253b7559b13442323a996eba96862b31a279de0039cb5b79d52189571"
+  }
+}
