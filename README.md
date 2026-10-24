@@ -19,8 +19,8 @@ npm start
 
 ## When to use the package
 
-- A consumer needs the following capability: Evidence-backed topic tags and extractive source phrases.
-- A Text integration needs to reuse the capabilities of @x12i/text-topics inside a larger application.
+- Tag support text using an explicit taxonomy and return evidence spans for the matching rule.
+- Extract ranked phrases from marked English prose without inventing topic labels.
 
 ## Links
 
